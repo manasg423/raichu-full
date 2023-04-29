@@ -1,0 +1,47 @@
+No.,Region,address,latitude,longitude,power,pin
+1,sus,"84, Pashan - Sus Rd, Pashan, Pune, Maharashtra ",18.55346197,73.75611355,7.4 kW,411021
+2,Balewadi,"Balewadi, Pune, Maharashtra ",18.57963058,73.76277618,7.4 kW,411045
+3,Balewadi,"The Orchid Hotel, SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Banglore Road, adjacent Chhatrapati Shivaji, National Games Park, Balewadi, Pune, Maharashtra ",18.57092928,73.76492139,7.4 kW,411045
+4,Hinjawaadi,"HPR3+2R5, Highmont Rd, Phase 2, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Maharashtra ",18.59292792,73.70330668,7.4 kW,411057
+5,Hinjawaadi,"Opposite Indialand Global Tech Park, Old Yes Bank Bldg, Hinjawadi Phase 2 Rd, Hinjawadi, Pune, Maharashtra ",18.59614454,73.72459094,7.4 kW,411057
+6,Hinjawaadi,"HPQQ+W89, Hinjewadi Phase 1 Rd, Hinjawadi Village, Hinjawadi, Pimpri-Chinchwad, Maharashtra ",18.5909027,73.73806747,7.4 kW,411057
+7,Hinjawaadi,"HPRX+GGG, Wakad, Hinjawadi Village, Hinjawadi, Pimpri-Chinchwad, Maharashtra ",18.59294158,73.74837812,7.4 kW,411057
+8,Wakad,"HQX3+JJQ, Mane Wasti, Kemse Vasti, Wakad, Pimpri-Chinchwad, Maharashtra ",18.60008186,73.75379689,7.4 kW,411057
+9,Wakad,"WESTERN AVENU, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra ",18.60424726,73.75437858,7.4 kW,411057
+10,Wakad,"JQ55+RF3, Swami Vivekanand Nagar, Wakad, Pimpri-Chinchwad, Maharashtra ",18.61012764,73.75851505,7.4 kW,411033
+11,Wakad,"HQXF+9R4, Vishnu Dev Nagar, Wakad, Pimpri-Chinchwad, Maharashtra ",18.59918706,73.77454221,7.4 kW,411057
+12,Vishal Nagar,"Near, Aundh-Wakad Road, CopaCabana, Jagtap Dairy Rd, Vishal Nagar, Maharashtra ",18.58942231,73.78254649,7.4 kW,411027
+13,Rahatani,"JQ2M+925, Behind Fountain Inn Hotel, Aundh Annexe, Rahatani, Pimpri-Chinchwad, Maharashtra ",18.60189104,73.78298236,7.4 kW,411027
+14,Kothrud,"GR63+F64, GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud, Pune, Maharashtra ",18.51390306,73.80247401,7.4 kW,411038
+15,New Sanghavi,"Shop A1, siddhi park, 2, Shirode Rd, New Sanghavi, Pune, Maharashtra ",18.57967791,73.81599955,7.4 kW,411027
+16,Aundh,"Aundh, Ward No. 8, Aundh Gaon,, Aundh Gaon, Aundh, Maharashtra ",18.56957195,73.81281707,7.4 kW,411007
+17,Aundh,"1 Samar Paradise, DP Rd, Subway, Aundh, Pune, Maharashtra ",18.56353826,73.80406525,7.4 kW,411007
+18,Aundh,"WESTEND MALL, Nxt To Parihar Chowk, Opp Mcdonald,, Aundh, New DP Rd, Pune, Maharashtra ",18.56293488,73.81011196,7.4 kW,411007
+19,Aundh,"Nanasaheb Gaikwad Information Technology Park, Sarjaa Rd, Sahil Park, Sanewadi, Aundh, Pune, Maharashtra ",18.5585603,73.80708861,7.4 kW,411007
+20,Pimpri-Chinchwad,"JR78+MJF, Pimpri Colony, Pimpri-Chinchwad, Maharashtra ",18.61923801,73.81601063,7.4 kW,411018
+21,Bhosari,"BGP, 10/14 & 10/15, BG Block, MIDC, Bhosari, Pune, Maharashtra ",18.62685137,73.83035709,7.4 kW,411026
+22,Erandwane,"GR6H+HQP, Shantilal Socity Road, Shanti Sheela Society, Apex Colony, Erandwane, Pune, Maharashtra ",18.51145579,73.82937315,7.4 kW,411004
+23,Sangamvadi,"GVRJ+5X5, Bund Garden, Sangamvadi, Pune, Maharashtra ",18.5456361,73.8829315,7.4 kW,411001
+24,Agarkar Nagar,"GVG8+P8W, Agarkar Nagar, Pune, Maharashtra ",18.53326687,73.86370543,7.4 kW,411001
+25,Sadhu Vaswani Rd,"GVGG+29G, B J Road Railway Station, Sadhu Vaswani Rd,, Pune, Maharashtra ",18.53229031,73.87572172,7.4 kW,411001
+26,Erandwane,"GR6H+HQP, Shantilal Socity Road, Shanti Sheela Society, Apex Colony, Erandwane, Pune, Maharashtra ",18.51731575,73.82834318,7.4 kW,411004
+27,Shukrawar Peth,"GV25+J67, Subhash Nagar, Shukrawar Peth, Pune, Maharashtra ",18.50624676,73.855809,7.4 kW,411002
+28,Gultekadi,"Sr. No. 463/A, opp. Golden Bakery, Salisbury Park, Gultekadi, Pune, Maharashtra ",18.50201431,73.87160185,7.4 kW,411037
+29,Vadgaon Budruk,"FR9H+HPR Siddhivinayak EVRS, Meenakshipuram, Vadgaon Budruk, Pune, Maharashtra ",18.47694302,73.82834318,7.4 kW,411041
+30,Nanded,"FR44+X44, Vadgaon Khurd, Nanded Fata, Pandurang Industrial Area, Nanded, Pune, Maharashtra ",18.46391753,73.80534056,7.4 kW,411041
+31,Wanwadi,"FVWX+RR3, Vitthal Rao Shivarkar Rd, Wanawadi Gaon, Wanwadi, Pune, Maharashtra ",18.50091548,73.89914661,7.4 kW,411040
+32,Wanwadi,"Shop No-4, hospital, Golden East, 2/5, opposite Vitthal Rao Shivarkar Road, Wanowrie, Pune, Maharashtra ",18.50938033,73.89845996,7.4 kW,401140
+33,Wagholi,"HXF5+CJV, Wable Wasti, Sai Satyam Park, Wagholi, Pune, Maharashtra ",18.5816401,73.96128802,7.4 kW,412207
+34,Viman Nagar,"Rudra motors, Nagar Rd, Sakore Nagar, Viman Nagar, Pune, Maharashtra ",18.56927348,73.93931537,7.4 kW,411014
+35,Wagholi,"HX64+GF7, Wagholi, Pune, Maharashtra ",18.56797168,73.95613818,7.4 kW,412207
+36,Kharadi,"GWXH+6XV, Old Mundhwa Rd, Mahadev Nagar, Kharadi, Pune, Maharashtra ",18.55592954,73.93244891,7.4 kW,411014
+37,Wagholi-Avhalwadi road,"R1 Moto, near hotel garwa,wagholi-Avhalwadi, road, Pune",18.54649052,73.91665606,7.4 kW,411014
+38,Kharadi,"BH. Muthoot Finance, Kranti Park, SR NO 21/4, Shree Datta Laxmi Complex, New Bypass Highway, Kharadi, Pune, Maharashtra ",18.54746699,73.93553882,7.4 kW,411014
+39,Hadapsar,"GW9P+7C9, Amanora Township, above Amanora Park Town, Hadapsar, Pune, Maharashtra ",18.52052727,73.93575643,7.4 kW,411028
+40,Hadapsar,"GW9P+JGQ, Amanora Town Centre, Amanora Park Town, Hadapsar, Pune, Maharashtra ",18.51999081,73.93666409,7.4 kW,411028
+41,Hadapsar,"Amanora Park Town, Amanora, Magarpatta Rd, Hadapsar, Pune, Maharashtra ",18.51929506,73.94120908,7.4 kW,411028
+42,Hadapsar,"GW9W+5G4, Amanora Park Town, Hadapsar, Pune, Maharashtra ",18.51899959,73.94666221,7.4 kW,411028
+43,Hadapsar,"GW8W+485, Amanora Park Town, Hadapsar, Pune, Maharashtra ",18.51604484,73.94588319,7.4 kW,411028
+44,Phursungi,"FXWC+8XW, Pune, Maharashtra ",18.50447593,73.97370496,7.4 kW,412307
+45,Phursungi,"Manjri Stud Farm, survey 210, SP Infocity, Phursungi, Maharashtra ",18.4920565,73.95666984,7.4 kW,411014
+46,Phursungi,"FXH7+3F7, Tarangana residency, Phursungi",18.48806826,73.96508049,7.4 kW,411014
